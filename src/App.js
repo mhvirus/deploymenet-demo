@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1 >This is my first app that I deploy to netlyfi</h1>
+        <h1 >This is my first app that I deploy to netlyfi on the live site</h1>
       </header>
     </div>
   );
